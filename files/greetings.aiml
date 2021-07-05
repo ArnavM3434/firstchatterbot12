@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	<category>
+    <pattern>HI *</pattern>
+    <template>Hello, world!</template>
+</category>
+
+<category>
+	<pattern>YO WHAT'S GOOD *</pattern>
+	<template>Nothing much homie hbu</template>
+</category>
+
+<category>
+	<pattern>YO WHAT'S GOOD *</pattern>
+	<template>Nm hbu</template>
+</category>
+
+</aiml>
